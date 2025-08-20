@@ -14,7 +14,7 @@
 114|Pride and Prejudice|Jane Austen|
 115|Chader Pahar|Bibhutibhushon Bondopaddhai|
 116|Kathgolap|Imran Hossain Adib|
-117|Agundana Meye|Sadat Hossain|gfhgjkhyuiy|gfyjk|3254p4657|0
+117|Agundana Meye|Sadat Hossain|0
 118|JAVA with SM|Shovon Mandal|0
 119|C++ with MAH |Md. Apu Hasan|0
 120|Life story of every CR|Md Rakib Khan|0
@@ -35,5 +35,3 @@
 135|Story of the Golden Dress|Nishat|0
 136|I love Spring|Nishat|0
 137|20 by 20 in all CT|Sabiha Kalam Kotha|0
-45|gljhlik|hhhhhhhhhhhhhhhhhhhh|0
--10|fgtgrghkj|fdfdfhgjh|0
